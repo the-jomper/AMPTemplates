@@ -1,0 +1,8 @@
+[
+  {
+    "ConfigFile": "dystopia/cfg/amp-server.cfg",
+    "AutoMap": true,
+    "ConfigType": "template",
+    "ConfigFileTemplate": "dystopia/AMP_server.cfg"
+  }
+]

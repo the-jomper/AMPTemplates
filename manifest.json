@@ -1,9 +1,13 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+  "id": "d7fd9c11-822e-431a-b1a9-14185976bb82",
+  "authors": [
+    "CubeCoders Limited",
+    "AMP Community",
+    "the-jomper"
+  ],
+  "origin": "https://github.com/the-jomper/AMPTemplates.git",
+  "url": "https://github.com/the-jomper/AMPTemplates",
+  "imagefile": "",
+  "prefix": "Fork Test",
+  "repotype": "AppTemplates"
 }
